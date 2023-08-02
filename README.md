@@ -1,11 +1,11 @@
-##Padronização de Dados para Utilização no POWER BI com scikit-learn
+## Padronização de Dados para Utilização no POWER BI com scikit-learn
 
-##Descrição:
+## Descrição:
 Este repositório contém um código Python que utiliza a biblioteca scikit-learn (sklearn) para realizar a padronização de dados em um conjunto de dados para ser utilizado no POWER BI. A padronização é uma etapa crucial no processo de preparação de dados para análise em ferramentas como o POWER BI, pois garante que todas as variáveis tenham a mesma escala, evitando distorções nos resultados da análise.
 
 O script Python apresentado aqui é um exemplo simples de como realizar a padronização usando a classe StandardScaler do sklearn. Ele demonstra passo a passo como carregar um conjunto de dados, aplicar a padronização e salvar os dados padronizados em um novo arquivo para serem importados no POWER BI.
 
-##Principais recursos deste repositório:
+## Principais recursos deste repositório:
 - Código Python claro e bem comentado para padronização de dados com sklearn.
 - Exemplo de conjunto de dados para fins de demonstração.
 - Arquivo de dados padronizados pronto para ser importado no POWER BI.
@@ -20,7 +20,7 @@ Observação: Para utilizar este código, é necessário ter o Python e as bibli
 
 Vamos padronizar e dar poder aos seus dados no POWER BI! 🚀
 
-##Contato
+## Contato
 
 Para qualquer dúvida ou questionamento relacionado a este projeto, entre em contato com [Gabriel Veloso] por e-mail: [velosogabriel5@gmail.com].
 
